@@ -1,6 +1,6 @@
 module EstiMate
 
-export ⊕
+export ⊕, dimensions
 
 include("OPlus.jl")
 
