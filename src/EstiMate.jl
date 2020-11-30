@@ -1,5 +1,7 @@
 module EstiMate
 
-greet() = print("Hello World!")
+export ⊕
+
+include("OPlus.jl")
 
 end # module
