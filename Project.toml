@@ -1,0 +1,4 @@
+name = "EstiMate"
+uuid = "343c0bf7-1903-4fb1-b03c-e440e79b2bb8"
+authors = ["Evert Schippers <schippers.evert@gmail.com>"]
+version = "0.1.0"
